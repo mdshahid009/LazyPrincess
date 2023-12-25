@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="(https://telegra.ph/file/fcef184849a9081a69719.jpg)" alt="Md Shahid Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> MD Shahid BOT </b>
 </h1>
 
 ## ⚡️Features
