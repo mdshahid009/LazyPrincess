@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://telegra.ph/file/fcef184849a9081a69719.jpg)" alt="Md Shahid Logo">
+  <img src="https://telegra.ph/file/fcef184849a9081a69719.jpg" alt="Md Shahid Logo">
 </p>
 <h1 align="center">
   <b> MD Shahid BOT </b>
